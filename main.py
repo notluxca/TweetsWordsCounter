@@ -14,7 +14,6 @@ def mainAppMenu():
     | \ \ /\ / / _ \/ _ \ __/ __| | |    / _ \| | | | '_ \| __/ _ \ '__|
     | |\ V  V /  __/  __/ |_\__ \ | \__/\ (_) | |_| | | | | ||  __/ |   
     \_/ \_/\_/ \___|\___|\__|___/  \____/\___/ \__,_|_| |_|\__\___|_|   """)
-    print("\n             by Lindo Lucas, bjs a todos\n\n")
 
     username = input("Provide a twitter username: ")
     query = f"(from:{username})"
