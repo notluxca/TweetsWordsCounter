@@ -15,4 +15,4 @@ should not take tooo long, on my computer, I had a 7 minutes wait time to proces
 after this is done the program will save the results to a txt file located on the same directory the script was executed
 you have the choice to automatically open the txt file containg the results.
 
-![alt text]([[https://media.discordapp.net/attachments/935739172164083743/1092963360577945690/image.png](https://media.discordapp.net/attachments/935739172164083743/1092964972084068392/image.png)]
+![alt text]([[https://media.discordapp.net/attachments/935739172164083743/1092963360577945690/image.png]]
