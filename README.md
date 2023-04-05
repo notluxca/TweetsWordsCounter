@@ -1,4 +1,4 @@
-# TweetsWordsCounter
+## TweetsWordsCounter
 This is a python script to count how much words someone said in a certain quantity of tweets on twitter
 
 ![alt text](https://media.discordapp.net/attachments/935739172164083743/1092956544435486810/image.png)
@@ -16,3 +16,10 @@ after this is done the program will save the results to a txt file located on th
 you have the choice to automatically open the txt file containg the results.
 
 ![alt text](https://media.discordapp.net/attachments/935739172164083743/1092964972084068392/image.png)
+
+
+# How to use
+- install Python3+ 
+- Install pandas with "pip install pandas"
+- Install snscrape with "pip install snscrape"
+- run the script
