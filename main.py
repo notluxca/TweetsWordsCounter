@@ -32,7 +32,7 @@ def mainAppMenu():
         mainAppMenu()
 
     print("\nCounting words, please wait...")
-    print("The time to complete this may vary depending on your computer\nand on your internet speed, so please, be fucking patient")
+    print("The time to complete this may vary depending on your computer\nand on your internet speed, so please, be patient")
     tweets = []
 
     for tweet in TwitterSearchScraper(query).get_items():
