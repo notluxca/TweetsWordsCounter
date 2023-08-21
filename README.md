@@ -1,4 +1,10 @@
-# TweetsWordsCounter
+# TweetsWordsCounter ( NOT WORKING ANYMORE )
+----------
+- Update log (21/08/2023)
+twitter has changed its api, so you cannot access or search tweets if you dont have an account logged in, so
+this app will be no longer working until they change it
+it was good while it lasted
+---------
 This is a python script that count how much words someone said in a certain quantity of tweets
 - uses snscrape and pandas
 
